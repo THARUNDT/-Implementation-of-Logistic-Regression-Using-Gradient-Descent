@@ -80,9 +80,9 @@ print(lr.predict([[1, 80, 1, 90, 1, 1, 90, 1, 0, 85, 1, 85]]))
 ```
 
 ## Output:
-![Screenshot 2024-09-19 114025](https://github.com/user-attachments/assets/e6132dda-82a4-45d6-bef9-fdd304cefa5e)
+![Screenshot 2024-09-26 135021](https://github.com/user-attachments/assets/e40dd04a-9cc0-43a1-ab99-f78403a57c29)
+![Screenshot 2024-09-26 134904](https://github.com/user-attachments/assets/a4dc2efc-51d1-45fd-9fbc-e1ed570a3840)
 
-![Screenshot 2024-09-19 114038](https://github.com/user-attachments/assets/b4212c7d-c4bd-4444-a817-5453d17c40fd)
 
 
 ## Result:
